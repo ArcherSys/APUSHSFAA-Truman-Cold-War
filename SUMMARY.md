@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * [Introduction](README.md)
 * [Post WWII Economy](POST_WWII_ECONOMY.md)
