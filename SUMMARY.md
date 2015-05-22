@@ -7,5 +7,5 @@
 * [The Problems of Returning Veterans](the_problems_of_returning_veterans.md)
 * [The GI BILL](the_gi_bill.md)
 * [American Prosperity](american_prosperity.md)
-* Post WWII Economic Boom
+* [Post WWII Economic Boom](post_wwii_economic_boom.md)
 
