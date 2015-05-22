@@ -9,3 +9,7 @@
 ## WWII
 
 World War II
+
+## WWI
+
+World War I
